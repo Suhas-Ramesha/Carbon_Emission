@@ -4,23 +4,6 @@ This project aims to analyze country-specific climate change data and build mach
 
 ---
 
-## 📁 Repository Structure
-
-.
-├── data/
-│ └── climate_change_download_0.xls
-├── notebooks/
-│ ├── Stage1_Data_Cleaning_and_Preparation.ipynb
-│ └── Stage2_Data_Exploration_and_Prediction.ipynb
-├── outputs/
-│ ├── Cleaned_Data.csv
-│ ├── Stage1_Report.pdf
-│ └── Stage2_Report.pdf
-├── README.md
-└── requirements.txt
-
----
-
 ## 🧠 Project Overview
 
 ### 🔹 Data Source
