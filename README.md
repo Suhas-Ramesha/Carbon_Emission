@@ -3,6 +3,7 @@
 This project aims to analyze country-specific climate change data and build machine learning models to **predict CO₂ emissions** using multiple country-level parameters. The data is sourced from the **World Bank Climate Change Data Catalog**, spanning **1990–2011**, and includes diverse indicators such as greenhouse gas emissions, population statistics, economic metrics, land usage, and more.
 
 ---
+## Model Link : [Forecasting CO2 Model](https://drive.google.com/file/d/1CLBqL_QaKKffq4NfVDldGDM5LagCwZSM/view?usp=sharing)
 
 ## 🧠 Project Overview
 
